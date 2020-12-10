@@ -1,0 +1,220 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    
+}
+
+
+
+.top-container {
+    background-color: #c7f7ee; 
+    background-image: url('bkground img.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+    
+h1{
+
+    font-family: 'Dancing Script', cursive; 
+    color: rgb(92, 167, 163);
+    font-size: 80px;
+    margin: 30px auto  
+}
+
+p.programmer{
+    color: rgb(4, 173, 165);
+    font-size: 25px;  
+}
+
+h2{
+    color: #66BFBF;
+    
+}
+
+h3{
+    color: #66BFBF;
+
+}
+
+.top-snow{
+    position: relative;
+    left: 300px;
+    top: 50px;
+    opacity: 0.6;
+    border-radius: 50%;
+}
+
+.web-img{
+   margin-top: 15px;
+   opacity: 0.8;
+   border-radius: 5%;
+   
+}
+
+.mypic{
+    border-radius: 100%;
+    margin-top: 40px;
+
+}
+
+.snow-img{
+    border-radius: 100%;
+    position: relative;
+    right: 300px;
+    opacity: 0.6; 
+}
+
+.middle-container {
+    
+    background-image: url('background img2.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+   
+}
+
+.skill-row {
+    font-size: 15px;
+    line-height: 2;
+    
+}
+
+.intro {
+    width: 35%;
+    margin: auto;
+    line-height: 2;
+    
+}
+
+hr {
+    border: 5px dotted rgb(204, 202, 202);
+    border-bottom: none;
+    width: 5%;
+    margin: 90px auto;
+
+}
+
+
+
+.software-testing{
+    border-radius: 30%;
+    border: 3px outset red;
+    margin-top: 15px;
+    
+   
+}
+
+.description{
+    width: 50%;
+    margin: auto;
+}
+
+.htmlcss{
+    border-radius: 90%;
+    border: 3px inset red;
+    margin-top: 50px;
+    
+}
+
+
+
+
+
+
+
+
+.Swedish {
+    border-radius: 50%;
+      
+}
+
+.edu {
+    margin-top: 50px;
+}
+.education {
+    width: 50%;
+    margin: auto;
+    margin-top: 15px;
+
+}
+
+.interest {
+    margin-top: 50px;
+}
+.interests-contents {
+    font-size: 25px;
+}
+
+.message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.message-me {
+    background: #1EC8D0;
+    background-image: -webkit-linear-gradient(top, #1EC8D0, #34C6CC);
+    background-image: -moz-linear-gradient(top, #1EC8D0, #34C6CC);
+    background-image: -ms-linear-gradient(top, #1EC8D0, #34C6CC);
+    background-image: -o-linear-gradient(top, #1EC8D0, #34C6CC);
+    background-image: -webkit-gradient(to bottom, #1EC8D0, #34C6CC);
+    -webkit-border-radius: 21px;
+    -moz-border-radius: 21px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 30px ;
+ }
+ 
+ .message-me:hover {
+    border: solid #337FED 1px;
+    background: #60DBD3;
+    background-image: -webkit-linear-gradient(top, #60DBD3, #3CCFC1);
+    background-image: -moz-linear-gradient(top, #60DBD3, #3CCFC1);
+    background-image: -ms-linear-gradient(top, #60DBD3, #3CCFC1);
+    background-image: -o-linear-gradient(top, #60DBD3, #3CCFC1);
+    background-image: -webkit-gradient(to bottom, #60DBD3, #3CCFC1);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+.bottom-container{
+    background-color: #c7f7ee;
+    padding: 40px 0 20px;
+     
+}
+
+.copyright {
+    color: gray;
+    font-size: 10px;
+    padding: 10px 10px;
+}
+
+.footer-link {
+    color: #11999E;
+    font-family: 'Merriweather', serif;
+    margin: 10px 10px ;
+    text-decoration: none;
+
+}
+
+.footer-link:hover {
+    color: #ffffff;
+}
