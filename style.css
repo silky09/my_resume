@@ -45,12 +45,16 @@ h3{
     top: 50px;
     opacity: 0.6;
     border-radius: 50%;
+    max-width: 100%;
+    height: auto;
 }
 
 .web-img{
    margin-top: 15px;
    opacity: 0.8;
    border-radius: 5%;
+   max-width: 100%;
+   height: auto;
    
 }
 
@@ -65,6 +69,8 @@ h3{
     position: relative;
     right: 300px;
     opacity: 0.6; 
+    max-width: 100%;
+   height: auto;
 }
 
 .middle-container {
